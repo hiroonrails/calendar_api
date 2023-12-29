@@ -1,0 +1,17 @@
+current directory: /Users/hiro/Documents/cloned_calendar/calendar_api/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+/Users/hiro/.rbenv/versions/3.0.0/bin/ruby -I /Users/hiro/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20231230-18491-t2v1yt.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hiro/Documents/cloned_calendar/calendar_api/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make "DESTDIR=" clean
+
+current directory: /Users/hiro/Documents/cloned_calendar/calendar_api/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make "DESTDIR="
+compiling stringio.c
+linking shared-object stringio.bundle
+ld: warning: directory not found for option '-L/usr/local/opt/libffi/lib'
+ld: warning: directory not found for option '-L/usr/local/opt/libffi/lib'
+
+current directory: /Users/hiro/Documents/cloned_calendar/calendar_api/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 stringio.bundle ./.gem.20231230-18491-dvztbs
