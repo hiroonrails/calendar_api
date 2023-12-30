@@ -48,3 +48,6 @@ end
 
 # Use mysql as the database for Active Record
 gem 'mysql2', '~> 0.5.3'
+
+gem 'devise'
+gem 'devise_token_auth'
