@@ -977,6 +977,23 @@
   resolved "https://registry.yarnpkg.com/@emotion/weak-memoize/-/weak-memoize-0.3.1.tgz#d0fce5d07b0620caa282b5131c297bb60f9d87e6"
   integrity sha512-EsBwpc7hBUJWAsNPBmJy4hxWx12v6bshQsldrVmjxJoc3isbxhOrF2IcCpaXxfvq03NwkI7sbsOLXbYuqF/8Ww==
 
+"@fullcalendar/core@^6.1.10":
+  version "6.1.10"
+  resolved "https://registry.yarnpkg.com/@fullcalendar/core/-/core-6.1.10.tgz#54eca62345243ec5b2f853102086da7200cd6f03"
+  integrity sha512-oTXGJSAGpCf1oY+CKp5qYjMHkJCPBkJ3SHitl63n8Q6xKeiwQ4EF6Au451euUovREwJpLmD1AyZrCnWmtB9AVg==
+  dependencies:
+    preact "~10.12.1"
+
+"@fullcalendar/daygrid@^6.1.10":
+  version "6.1.10"
+  resolved "https://registry.yarnpkg.com/@fullcalendar/daygrid/-/daygrid-6.1.10.tgz#1012907ac02993e9896dda08502109a85ca8c308"
+  integrity sha512-Z4GRm1IyHKgxXFTWGcEI0nTsvYOIkpE0aMt3/o3ER2SZkF+hfwcDFhtj0c9+WhMjXFIWYeoTnA9rUOY7Zl/nxA==
+
+"@fullcalendar/react@^6.1.10":
+  version "6.1.10"
+  resolved "https://registry.yarnpkg.com/@fullcalendar/react/-/react-6.1.10.tgz#f41d091be8516c9038485c6241fd74a4c13b7965"
+  integrity sha512-RVYevo5T4RUZzR8omlbnBwRCqVNJWKryzI0ZrFULyqIYggN6uPmMuB9GvbrTjDfKhsm438KQwwhJerg2lGh3xA==
+
 "@popperjs/core@^2.9.3":
   version "2.11.8"
   resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.11.8.tgz#6b79032e760a0899cd4204710beede972a3a185f"
@@ -1402,6 +1419,11 @@ path-type@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/path-type/-/path-type-4.0.0.tgz#84ed01c0a7ba380afe09d90a8c180dcd9d03043b"
   integrity sha512-gDKb8aZMDeD/tZWs9P6+q0J9Mwkdl6xMV8TjnGP3qJVJ06bdMgkbBlLU8IdfOsIsFz2BW1rNVT3XuNEl8zPAvw==
+
+preact@~10.12.1:
+  version "10.12.1"
+  resolved "https://registry.yarnpkg.com/preact/-/preact-10.12.1.tgz#8f9cb5442f560e532729b7d23d42fd1161354a21"
+  integrity sha512-l8386ixSsBdbreOAkqtrwqHwdvR35ID8c3rKPa8lCWuO86dBi32QWHV4vfsZK1utLLFMvw+Z5Ad4XLkZzchscg==
 
 prop-types@^15.6.2:
   version "15.8.1"
